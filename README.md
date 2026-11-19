@@ -14,7 +14,7 @@ Building reliable data pipelines, analytics platforms, and AI-assisted systems t
 
 ## About Me
 
-I'm a Lagos-based **Senior Data Engineer** with 5+ years of data engineering experience. My work spans batch and streaming ingestion, ETL/ELT orchestration, data warehousing, lakehouse architecture, analytics engineering, and cloud data platforms.
+I am a Lagos-based **Senior Data Engineer** with 5+ years of data engineering experience. My work spans batch and streaming ingestion, ETL/ELT orchestration, data warehousing, lakehouse architecture, analytics engineering, and cloud data platforms.
 
 I work with **Python, SQL, PySpark, Apache Airflow, Kafka, dbt, AWS, Azure, Google Cloud, and Microsoft Fabric**, and I'm extending those capabilities into **agentic AI and Retrieval-Augmented Generation (RAG)** on AWS.
 
@@ -61,7 +61,7 @@ I work with **Python, SQL, PySpark, Apache Airflow, Kafka, dbt, AWS, Azure, Goog
 
 ## Let's Connect
 
-I'm interested in collaborating on **Data Engineering, Cloud Data Platforms, Analytics Engineering, and Agentic AI** projects.
+I am interested in collaborating on **Data Engineering, Cloud Data Platforms, Analytics Engineering, and Agentic AI** projects.
 
 - **Portfolio:** https://ayomikun-adaramola.netlify.app/
 - **LinkedIn:** https://www.linkedin.com/in/ayomikun-adaramola-/
